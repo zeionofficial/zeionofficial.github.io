@@ -1,0 +1,13 @@
+# Zelmad
+...
+
+# Properties
+- **Server name**: Zelmad
+- **Members**: 270
+- **ECSC**: 0
+- **Type**: Supreme State
+- **Owner**: Emperor Phi 2
+- **Invite**: ...
+- **ID**: ...
+# Policies
+...
